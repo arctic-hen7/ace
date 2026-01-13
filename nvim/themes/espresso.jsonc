@@ -1,0 +1,53 @@
+{
+    // Core palette
+    "background": "#211B15",
+    "background_dark": "#1D1713",
+    "background_float": "#28221C",
+    "background_highlight": "#302821",
+    "foreground": "#DDCDBA",
+    "foreground_dark": "#B1A494",
+    "foreground_gutter": "#6A6052",
+    "border": "#4D4236",
+    "comment": "#7D7264",
+
+    // Accents
+    "accent_red": "#B46355",
+    "accent_orange": "#D28B58",
+    "accent_yellow": "#C7A25F",
+    "accent_green": "#818E6E",
+    "accent_blue": "#778A98",
+    "accent_purple": "#A88593",
+    "accent_cyan": "#6D918A",
+
+    // Diagnostics
+    "diagnostic_error": "#B46355",
+    "diagnostic_warning": "#C7A25F",
+    "diagnostic_info": "#778A98",
+    "diagnostic_hint": "#818E6E",
+
+    // Git
+    "git_add": "#818E6E",
+    "git_change": "#D28B58",
+    "git_delete": "#B46355",
+    "git_conflict": "#c5804f",
+    "git_ignore": "#554c41",
+
+    // UI/highlight specifics
+    "visual_bg": "#4F4335",
+    "search_bg": "#605242",
+    "search_fg": "#DDCDBA",
+    "inc_search_bg": "#A67B4F",
+    "inc_search_fg": "#F5E9D8",
+
+    // Treesitter/key syntax
+    "ts_keyword_fg": "#D28B58",
+    "ts_string_fg": "#C7A25F",
+    "ts_function_fg": "#C5A98E",
+    "ts_type_builtin_fg": "#6D918A",
+    "ts_variable_fg": "#DDCDBA",
+    "ts_parameter_fg": "#B1A494",
+    "ts_constant_builtin_fg": "#A88593",
+    "ts_tag_fg": "#818E6E",
+    "ts_tag_attribute_fg": "#D28B58",
+    "ts_punctuation_bracket_fg": "#B1A494"
+}

@@ -1,0 +1,9 @@
+hi mdKeywordTodo guifg=green
+hi mdKeywordNext guifg=yellow
+hi mdKeywordStack guifg=orange
+hi mdKeywordProb guifg=purple
+hi mdKeywordDone guifg=white
+hi mdKeywordCont guifg=white
+hi mdTagwordDeadline guifg=red
+hi mdTagwordScheduled guifg=yellow
+hi mdTagwordFrog guifg=#c1d13a

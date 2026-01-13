@@ -1,0 +1,53 @@
+{
+  // Core palette — deep espresso + warm parchment
+  "background": "#1B1410",
+  "background_dark": "#160F0C",
+  "background_float": "#231B16",
+  "background_highlight": "#2B221B",
+  "foreground": "#D7C9B6",
+  "foreground_dark": "#B4A897",
+  "foreground_gutter": "#6D6257",
+  "border": "#44392F",
+  "comment": "#7A6E62",
+
+  // Accents — cognac, brass, olive, oxidized copper, steel, port
+  "accent_red": "#9E5148",      // oxblood/clay
+  "accent_orange": "#B96B3D",   // burnt cognac
+  "accent_yellow": "#B4974F",   // aged brass
+  "accent_green": "#78855D",    // cigar-leaf olive
+  "accent_blue": "#667681",     // blued steel
+  "accent_purple": "#866778",   // port plum
+  "accent_cyan": "#5E837B",     // oxidized copper
+
+  // Diagnostics — slightly brighter cuts of the accents
+  "diagnostic_error": "#A95B51",
+  "diagnostic_warning": "#BEA055",
+  "diagnostic_info": "#6E8691",
+  "diagnostic_hint": "#80906B",
+
+  // Git
+  "git_add": "#78855D",
+  "git_change": "#B96B3D",
+  "git_delete": "#9E5148",
+  "git_conflict": "#A56A3E",
+  "git_ignore": "#4A4037",
+
+  // UI/highlight specifics
+  "visual_bg": "#403328",       // pressed leather
+  "search_bg": "#584534",       // dark cigar band
+  "search_fg": "#E5D8C7",
+  "inc_search_bg": "#97633A",   // brighter cognac stripe
+  "inc_search_fg": "#FBF1DE",
+
+  // Treesitter/key syntax
+  "ts_keyword_fg": "#B96B3D",              // statements pop as cognac
+  "ts_string_fg": "#B4974F",               // brass strings
+  "ts_function_fg": "#C0A68A",             // warm brass/ivory
+  "ts_type_builtin_fg": "#5E837B",         // oxidized copper
+  "ts_variable_fg": "#D7C9B6",
+  "ts_parameter_fg": "#B4A897",
+  "ts_constant_builtin_fg": "#866778",     // port
+  "ts_tag_fg": "#78855D",                  // olive
+  "ts_tag_attribute_fg": "#B96B3D",
+  "ts_punctuation_bracket_fg": "#B4A897"
+}
