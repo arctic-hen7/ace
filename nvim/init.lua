@@ -544,6 +544,7 @@ require("lazy").setup({
 							},
 						},
 					},
+				},
 				biome = {},
 
 				lua_ls = {
